@@ -13,3 +13,10 @@ Accuracy for all zeros classifier 0.9946059728983029
 Accuracy for fitted classifier is only a little better than the all zeros classifier.
 
 Therefore we look at the confustion matrix to see the score results.
+
+Confusion Matrix for fitted classifier
+[[22670    10]
+ [   91    32]]
+Confusion Matrix for all 0's classifier
+[[22680     0]
+ [  123     0]]
